@@ -1,6 +1,6 @@
 <?php
 $username = $_GET['username'];
-$password = $_GET['username'];
+$password = $_GET['password'];
 
 $path = $_SERVER['REQUEST_URI'];
 
